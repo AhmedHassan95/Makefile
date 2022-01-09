@@ -9,7 +9,8 @@ These calculations contains:
 
 Then print these statistics.
 
-- Click on the image to open it
-- 
-IMAGE: 
+
+Click on the image to open it
+
+IMAGE OF COMPILATION: 
 ![alt text](https://github.com/AhmedHassan95/Makefile/blob/master/Assignments/C1_M1/C1M1.png)

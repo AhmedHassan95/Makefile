@@ -1,6 +1,6 @@
-## Introduction to Embedded Systems Software and Development Environments
+### Introduction to Embedded Systems Software and Development Environments
 
-## MOOC Details
+### MOOC Details
 
 The first module of embedded systems MOOC from the University of Colorado Boulder through [**coursera**](https://www.coursera.org/).
 

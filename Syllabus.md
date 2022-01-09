@@ -17,7 +17,7 @@ Module 2: Compilation with GCC and GNU Make
 				•GNU Make
 				•Analyzing Compiled Code
 				
-Module 3: Memory Types, Segments and Management
+Module 3: Memory Types, Segments and Management\
 	  •Memory Systems\
 	  •Software to Hardware Memory Interface\
 	  •Writing Code for Different Program Segments

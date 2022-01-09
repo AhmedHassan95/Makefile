@@ -28,5 +28,8 @@ In most of the cases, there are all these alternatives (except with the two firs
 
 ## Requirements
 
-**[Kiel uVsion 4](https://www.keil.com/demo/eval/armv4.htm)** - All the code/debug were done on this IDE. 
+**[Ubuntu](https://ubuntu.com/download/desktop)** - All the code/debug were done on this Environment. 
+**[VirtualBox](https://www.virtualbox.org/wiki/Downloads)** - If you have Windows or Mac, you need to setup VirtualBox. 
+**[VMware Workstation](https://www.vmware.com/products/workstation-pro/workstation-pro-evaluation.html)** - If you have Windows or Mac, you need to setup VMware. 
+**[Sublime Text](https://www.sublimetext.com/3)** - Any code editor but sublime is a better choice for Ubuntu and Windows.
 

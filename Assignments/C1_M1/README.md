@@ -8,3 +8,10 @@ These calculations contains:
 - Median value.
 
 Then print these statistics.
+
+- Click on the image to open it
+
+IMAGE: 
+![alt text][logo]
+
+[logo]:  ""

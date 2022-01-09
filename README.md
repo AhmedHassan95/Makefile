@@ -7,10 +7,10 @@ The first module of embedded systems MOOC from the University of Colorado Boulde
 Date: December, 2021
 
 This class is 9 Hours : 
-- **You can find the introduction to embedded systems software and development environments:(https://www.edx.org/course/embedded-systems-shape-world-multi-utaustinx-ut-6-20x)**. \
+- **You can find the introduction to embedded systems software and development environments:()**. \
   [**Certificate**](https://github.com/AhmedHassan95/Makefile/blob/master/Certificate.pdf) available.
 
-- You can find a **[syllabus](syllabus.md)** of this course.
+- You can find a **[syllabus](Syllabus.md)** of this course.
 
 ## Descriptions
 
@@ -33,5 +33,4 @@ In most of the cases, there are all these alternatives (except with the two firs
 
 There are some file types which will appear in every lab assignment.
 
-`***.uvproj` `***.uvgui` `***.uvopt` - uVision files (open `***.uvproj` to get the full project) 
-le
+`***.uvproj` `***.uvgui` `***.uvopt` - uVision files (open `***.uvproj` to get the full project)

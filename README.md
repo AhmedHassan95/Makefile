@@ -15,8 +15,8 @@ This class is 9 Hours :
 
 ## Descriptions
 
-Every lab is given as an existant project with a grading system TExaS that remotely permits to evaluate my work (and push the grade on edX MOOC). \
-As a consequence, for each lab assignment, I completed an existant project given by the teaching staff with the requirements.
+Every assignmenet is given as requirments with a grading system. \
+As a consequence, for each assignment, I implemented codes and followed intrsuctions given by the teaching staff with the requirements.
 
 My contributions include:
 - Solve four quizzes. 

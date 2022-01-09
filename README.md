@@ -15,8 +15,8 @@ This class is 9 Hours :
 
 ## Descriptions
 
-Every assignmenet is given as requirments with a grading system. \
-As a consequence, for each assignment, I implemented codes and followed intrsuctions given by the teaching staff with the requirements.
+Every assignment is given requirements and some instructions to follow to achieve these requirements. \
+As a consequence, for each assignment, I implemented codes and followed instructions given by the teaching staff with the requirements.
 
 My contributions include:
 - Solve four quizzes. 

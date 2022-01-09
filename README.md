@@ -1,4 +1,4 @@
-# Introduction to Embedded Systems Software and Development Environments
+## Introduction to Embedded Systems Software and Development Environments
 
 ## MOOC Details
 

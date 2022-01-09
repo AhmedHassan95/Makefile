@@ -7,8 +7,8 @@ The first module of embedded systems MOOC from the University of Colorado Boulde
 Date: December, 2021
 
 This class is 9 Hours : 
-- **You can find the UT.6.20x Embedded Systems - Shape The World: [Multi-Threaded Interfacing](https://www.edx.org/course/embedded-systems-shape-world-multi-utaustinx-ut-6-20x)** that includes Modules from 11 to 16. \
-  [**Certificate**](https://github.com/AhmedHassan95/ARM-Microcontrollers/blob/master/Embedded%20Systems%20-%20Shape%20The%20World%20Multi-Threaded%20Interfacing/UTAustinX%20UT.6.20x%20Certificate%20_%20edX.pdf) available.
+- **You can find the introduction to embedded systems software and development environments:(https://www.edx.org/course/embedded-systems-shape-world-multi-utaustinx-ut-6-20x)**. \
+  [**Certificate**](https://github.com/AhmedHassan95/Makefile/blob/master/Certificate.pdf) available.
 
 - You can find a **[syllabus](syllabus.md)** of this course.
 
@@ -27,16 +27,11 @@ In most of the cases, there are all these alternatives (except with the two firs
 
 ## Requirements
 
-**[Kiel uVsion 4](https://www.keil.com/demo/eval/armv4.htm)** - All the code/debug were done on this IDE. \
-**[Stellaris/Tiva LaunchPad](http://www.ti.com/tool/ek-tm4c123gxl)** - Everything is meant to work on a EK-TM4C123G launchpad. \
-**[Electronic Components](http://edx-org-utaustinx.s3.amazonaws.com/UT601x/worldwide.html)** - Some labs requires a set of extra electronic parts.
-
+**[Kiel uVsion 4](https://www.keil.com/demo/eval/armv4.htm)** - All the code/debug were done on this IDE. 
 
 ## Common Files
 
 There are some file types which will appear in every lab assignment.
 
-`***.uvproj` `***.uvgui` `***.uvopt` - uVision files (open `***.uvproj` to get the full project) \
-`***.axf` `TExaS.h` `texas.o` - autograder files \
-`tm4c123gh6pm.h` - useful address definitions for launchpad \
-`startup.s` - assembly startup file
+`***.uvproj` `***.uvgui` `***.uvopt` - uVision files (open `***.uvproj` to get the full project) 
+le

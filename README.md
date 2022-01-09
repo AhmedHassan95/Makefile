@@ -8,10 +8,10 @@ Date: December, 2021
 
 This class is 9 Hours : 
 - You can find the [Introduction to Embedded Systems Software and Development Environments](https://www.coursera.org/learn/introduction-embedded-systems). \
-  
-- You can find the [**Certificate**](https://github.com/AhmedHassan95/Makefile/blob/master/Certificate.pdf) available.
 
 - You can find a **[syllabus](Syllabus.md)** of this course.
+ 
+- The [**Certificate**](https://github.com/AhmedHassan95/Makefile/blob/master/Certificate.pdf) available.
 
 ## Descriptions
 

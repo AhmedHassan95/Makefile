@@ -172,7 +172,6 @@ void sort_array(unsigned char * ptr, unsigned long count){
         temp = ptr[j+1];
         ptr[j+1] = ptr[j];
         ptr[j] = temp;
-
       }
     }
   }
@@ -276,7 +275,6 @@ unsigned long find_median(unsigned char * ptr, unsigned long count){
     printf("The array is empty...\n");
     return -1;
   }
-
 
   if( (count % 2) == 0 ){
     return (ptr[count/2]);

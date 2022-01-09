@@ -7,7 +7,7 @@ The first module of embedded systems MOOC from the University of Colorado Boulde
 Date: December, 2021
 
 This class is 9 Hours : 
-- **You can find the [Introduction to Embedded Systems Software and Development Environments](https://www.coursera.org/learn/introduction-embedded-systems)**. \
+- You can find the [Introduction to Embedded Systems Software and Development Environments](https://www.coursera.org/learn/introduction-embedded-systems)**. \
   [**Certificate**](https://github.com/AhmedHassan95/Makefile/blob/master/Certificate.pdf) available.
 
 - You can find a **[syllabus](Syllabus.md)** of this course.
@@ -29,8 +29,3 @@ In most of the cases, there are all these alternatives (except with the two firs
 
 **[Kiel uVsion 4](https://www.keil.com/demo/eval/armv4.htm)** - All the code/debug were done on this IDE. 
 
-## Common Files
-
-There are some file types which will appear in every lab assignment.
-
-`***.uvproj` `***.uvgui` `***.uvopt` - uVision files (open `***.uvproj` to get the full project)

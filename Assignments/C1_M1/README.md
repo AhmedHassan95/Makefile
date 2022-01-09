@@ -14,4 +14,4 @@ Then print these statistics.
 IMAGE: 
 ![alt text][logo]
 
-[logo]: "https://github.com/AhmedHassan95/Makefile/blob/master/Assignments/C1_M1/C1M1.png"
+[logo]: "https://github.com/AhmedHassan95/Makefile/blob/master/Assignments/C1_M1/C1M1.png" "C1M1"

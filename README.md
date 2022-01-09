@@ -19,12 +19,9 @@ Every lab is given as an existant project with a grading system TExaS that remot
 As a consequence, for each lab assignment, I completed an existant project given by the teaching staff with the requirements.
 
 My contributions include:
-- Global declarations (essentially for ports) and/or declarations in header files. 
-- Functions defintion if already declared by instructors.
-- Functions implementation otherwise.
-
-In most of the cases, there are all these alternatives (except with the two first introduction labs).
-
+- Solve four quizzes. 
+- Implement three codes.
+- Apply twelve peer reviews "Four reviews for each code".
 
 ## Requirements
 

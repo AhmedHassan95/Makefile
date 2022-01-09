@@ -11,17 +11,17 @@
 
 ifeq ($(PLATFORM),MSP432)
 	SOURCES = main.c\
-		  	  memory.c\
-		  	  startup_msp432p401r_gcc.c\
-		  	  system_msp432p401r.c\
-		  	  interrupts_msp432p401r_gcc.c
+		  memory.c\
+		  startup_msp432p401r_gcc.c\
+		  system_msp432p401r.c\
+		  interrupts_msp432p401r_gcc.c
 
 	INCLUDES = -I../include/CMSIS\
-			   -I../include/common\
-			   -I../include/msp432
+		   -I../include/common\
+		   -I../include/msp432
 else
 	SOURCES = main.c\
-			  memory.c
+		  memory.c
 
 	INCLUDES = -I../include/common
 endif

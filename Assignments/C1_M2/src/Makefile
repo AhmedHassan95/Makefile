@@ -18,9 +18,9 @@
 # Use: make [TARGET] [PLATFORM-OVERRIDES]
 #
 # Build Targets:
-#	   <FILE>.i    : Generates <FILE>.i intermediate file from the corresponding C file
-#	   <FILE>.asm  : Generates <FILE>.asm assembly file from the corresponding intermediate file
-#	   <FILE>.o    : Generates <FILE>.o object file from the corresponding assembly file
+#      <FILE>.i    : Generates <FILE>.i intermediate file from the corresponding C file
+#      <FILE>.asm  : Generates <FILE>.asm assembly file from the corresponding intermediate file
+#      <FILE>.o    : Generates <FILE>.o object file from the corresponding assembly file
 #      compile-all : Compile all object files, but don't link
 #      build 	   : Compile all object files and link into a final executable
 #      clean       : Remove all compiled objects, preprocessed outputs,
@@ -32,10 +32,10 @@
 #      SPECS - Specs file to give the linker (nosys.specs, nano.specs)
 #
 # Hint: Use rule:
-#				$(CC) $(CFLAGS) $(CPPFLAGS) $(INCLUDES) $(LDFLAGS ) $< -o $@ 
-#				- $< : First prerequisite
-#				- $^ : All prerequisites
-#				- S@ : Target
+#		$(CC) $(CFLAGS) $(CPPFLAGS) $(INCLUDES) $(LDFLAGS ) $< -o $@ 
+#		- $< : First prerequisite
+#		- $^ : All prerequisites
+#		- S@ : Target
 #
 #------------------------------------------------------------------------------
 

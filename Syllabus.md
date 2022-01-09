@@ -1,6 +1,6 @@
-### DESCRIPTION: This file demonstrates the learning topics in this course
+#### DESCRIPTION: This file demonstrates the learning topics in this course
 
-### COURSE: "Introduction to Embedded Systems Software and Development Environments"
+#### COURSE: "Introduction to Embedded Systems Software and Development Environments"
 
 	Module 1: Embedded System Development Components
 				•Embedded Systems Overview

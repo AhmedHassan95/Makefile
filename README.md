@@ -1,8 +1,8 @@
-# Introduction to Embedded Systems software and Development Environments
+# Introduction to Embedded Systems Software and Development Environments
 
 ## MOOC Details
 
-The First module of embedded systems MOOC based on an ARM Cortex-M4F microcontroller from the University of Texas at Austin through [**edX**](https://courses.edx.org/).
+The first module of embedded systems MOOC from the University of Colorado Boulder through [**coursera**](https://www.coursera.org/).
 
 Date: December, 2021
 

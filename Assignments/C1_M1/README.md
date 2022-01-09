@@ -9,11 +9,9 @@ These calculations contains:
 
 Then print these statistics.
 
-
-### <ins> HEADERS FILES STRUCTURE </ins>:   
 - Click on the image to open it
 
 IMAGE: 
 ![alt text][logo]
 
-[logo]: "https://github.com/AhmedHassan95/Makefile/blob/master/Assignments/C1_M1/C1M1.png" "C1M1"
+[logo]: "https://github.com/AhmedHassan95/Makefile/blob/master/Assignments/C1_M1/C1M1.png"

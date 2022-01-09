@@ -3,13 +3,13 @@
 ### COURSE: "Introduction to Embedded Systems Software and Development Environments"
 
 #### Module 1: Embedded System Development Components
-•Embedded Systems Overview\
-•Environment\
-•Hardware\
-•Software\
-•C-Programming Review\
-•Software Configuration Management (SCM)\
-•Version Control
+1.1 Embedded Systems Overview\
+1.2 Environment\
+1.3 Hardware\
+1.4 Software\
+1.5 C-Programming Review\
+1.6 Software Configuration Management (SCM)\
+1.7 Version Control
 				
 #### Module 2: Compilation with GCC and GNU Make
 •Building Software\

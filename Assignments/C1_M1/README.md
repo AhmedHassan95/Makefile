@@ -9,6 +9,8 @@ These calculations contains:
 
 Then print these statistics.
 
+
+### <ins> HEADERS FILES STRUCTURE </ins>:   
 - Click on the image to open it
 
 IMAGE: 

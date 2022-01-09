@@ -12,12 +12,12 @@
 1.7 Version Control
 				
 #### Module 2: Compilation with GCC and GNU Make
-•Building Software\
-•GCC Toolchain\
-•GNU Make\
-•Analyzing Compiled Code
+2.1 Building Software\
+2.2 GCC Toolchain\
+2.3 GNU Make\
+2.4 Analyzing Compiled Code
 				
 #### Module 3: Memory Types, Segments and Management
-•Memory Systems\
-•Software to Hardware Memory Interface\
-•Writing Code for Different Program Segments
+3.1 Memory Systems\
+3.2 Software to Hardware Memory Interface\
+3.3 Writing Code for Different Program Segments

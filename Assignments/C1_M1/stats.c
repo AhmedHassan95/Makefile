@@ -96,7 +96,6 @@ void print_array(unsigned char * ptr, unsigned long count){
     return;
   }
 
-
   for( i = 0; i < count; i++){
     if(i % 8 == 0){
       printf("\n");
@@ -167,7 +166,6 @@ void sort_array(unsigned char * ptr, unsigned long count){
     return;
   }
 
-  
   for(i = 0; i < count-1; i++){
     for(j = 0; j < count-i-1; j++){
       if( ptr[j+1] > ptr[j] ){
@@ -207,8 +205,7 @@ unsigned long find_maximum(unsigned char * ptr, unsigned long count){
   }
 
   max = ptr[0];
-
-
+  
   for(i = 0; i < count; i++){
     if( ptr[i] > max ){
       max = ptr[i];
@@ -245,7 +242,6 @@ unsigned long find_minimum(unsigned char * ptr, unsigned long count){
   }
 
   mini = ptr[0];
-
 
   for(i = 0; i < count; i++){
     if( ptr[i] < mini ){

@@ -7,9 +7,9 @@ The first module of embedded systems MOOC from the University of Colorado Boulde
 Date: December, 2021
 
 This class is 9 Hours : 
-- You can find the [Introduction to Embedded Systems Software and Development Environments](https://www.coursera.org/learn/introduction-embedded-systems).
+- You can find the course of [Introduction to Embedded Systems Software and Development Environments](https://www.coursera.org/learn/introduction-embedded-systems).
 
-- You can find a **[syllabus](Syllabus.md)** of this course.
+- You can find the **[syllabus](Syllabus.md)** of this course.
  
 - The [**Certificate**](https://github.com/AhmedHassan95/Makefile/blob/master/Certificate.pdf) is available.
 

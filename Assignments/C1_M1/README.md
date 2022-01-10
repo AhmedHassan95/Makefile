@@ -1,4 +1,4 @@
-### Requirements
+### <ins> Requirements </ins>:  
 
 In this programming assignment you will create a simple application that performs statistical analytics on a dataset:
 
@@ -12,7 +12,7 @@ These calculations contains:
 Then print these statistics.
 
 
-### Results
+### <ins> Results </ins>:  
 
 Note: Click on the image to open it.
 

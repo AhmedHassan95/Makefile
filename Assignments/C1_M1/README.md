@@ -1,4 +1,4 @@
-### <ins> Requirements </ins>:  
+### <ins>Requirements</ins>:  
 
 In this programming assignment you will create a simple application that performs statistical analytics on a dataset:
 

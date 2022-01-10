@@ -1,6 +1,6 @@
 ### <ins>Requirements</ins>:  
 
-In this programming assignment you will create a simple application that performs statistical analytics on a dataset:
+In this programming assignment we will create a simple application that performs statistical analytics on a dataset:
 
 These calculations contains: 
 - Mean value. 

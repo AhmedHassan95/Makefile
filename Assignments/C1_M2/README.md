@@ -11,7 +11,7 @@ In this programming assignment you will create a build system using the GNU tool
 
 Note: Click on the image to open it.
 
-Image of Compilation
+Images of Compilation
 
 Image 1:
 ![alt text](https://github.com/AhmedHassan95/Makefile/blob/master/Assignments/C1_M2/C1M2%20I.png)

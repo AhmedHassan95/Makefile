@@ -17,5 +17,5 @@ Image 1:
 ![alt text](https://github.com/AhmedHassan95/Makefile/blob/master/Assignments/C1_M2/C1M2%20I.png)
 
 
-Image 1:
+Image 2:
 ![alt text](https://github.com/AhmedHassan95/Makefile/blob/master/Assignments/C1_M2/C1M2%20II.png)

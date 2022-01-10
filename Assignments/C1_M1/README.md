@@ -16,6 +16,6 @@ Then print these statistics.
 
 Note: Click on the image to open it.
 
-Image of Compilation: 
+Image of Compilation
 
 ![alt text](https://github.com/AhmedHassan95/Makefile/blob/master/Assignments/C1_M1/C1M1.png)

@@ -12,7 +12,7 @@ These calculations contains:
 Then print these statistics.
 
 
-### <ins> Results </ins>:  
+### <ins>Results</ins>:  
 
 Note: Click on the image to open it.
 

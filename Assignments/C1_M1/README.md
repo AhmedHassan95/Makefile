@@ -1,4 +1,4 @@
-# Requirements:
+### Requirements:
 
 In this programming assignment you will create a simple application that performs statistical analytics on a dataset:
 
@@ -12,9 +12,10 @@ These calculations contains:
 Then print these statistics.
 
 
-# Results:
+### Results:
 
-Click on the image to open it
+Note: Click on the image to open it
 
 Image of Compilation: 
+
 ![alt text](https://github.com/AhmedHassan95/Makefile/blob/master/Assignments/C1_M1/C1M1.png)
